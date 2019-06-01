@@ -15,6 +15,9 @@
 #ifndef __ODM_TYPES_H__
 #define __ODM_TYPES_H__
 
+#ifdef PLATFORM_LINUX
+	#include <linux/version.h>
+#endif
 
 /*Define Different SW team support*/
 #define	ODM_AP			0x01	/*BIT(0)*/
@@ -131,8 +134,12 @@ enum rt_spinlock_type {
 	#define	u64		u8Byte
 	#define	s64		s8Byte
 
+#if (LINUX_VERSION_CODE >= KERNEL_VERSION(4, 15, 0))
+	#define legacy_timer_emu	_RT_TIMER
+#else
 	#define	timer_list	_RT_TIMER
-	
+#endif
+
 
 #elif (DM_ODM_SUPPORT_TYPE == ODM_AP)
 	#include "../typedef.h"
