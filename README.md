@@ -1,14 +1,15 @@
-# Realtek 8192EU for TL-WN823N for Linux Driver
-Realtek 8192EU for TL-WN823N for Linux Driver
+# Realtek 8192EU for TL-WN821N, TL-WN822N, TL-WN823N and TL-WN8200ND for Linux Driver
+Realtek 8192EU for WN821N, TL-WN822N, TL-WN823N and TL-WN8200ND for Linux Driver
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![master](https://img.shields.io/badge/current-v5.2.19.2-aa11ff.svg)](https://github.com/noud/rtl8192EU_WiFi_linux/releases)
 
 Working hardware dongle is [TP-Link TL-WN823N](https://www.tp-link.com/us/support/download/tl-wn823n/#Driver)
+
 Also supported:
-[TL-WN821N V6](https://www.tp-link.com/en/support/download/tl-wn821n/#Driver)
-[TL-WN822N V5](https://www.tp-link.com/en/support/download/tl-wn822n/#Driver)
-[TL-WN8200ND V2](https://www.tp-link.com/en/support/download/tl-wn8200nd/#Driver)
+* [TL-WN821N V6](https://www.tp-link.com/en/support/download/tl-wn821n/#Driver)
+* [TL-WN822N V5](https://www.tp-link.com/en/support/download/tl-wn822n/#Driver)
+* [TL-WN8200ND V2](https://www.tp-link.com/en/support/download/tl-wn8200nd/#Driver)
 
 How to build:
 
