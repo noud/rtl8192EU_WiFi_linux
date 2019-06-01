@@ -2,9 +2,28 @@
 Realtek 8192EU for TL-WN823N for Linux Driver
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![master](https://img.shields.io/badge/current-v5.2.19.2-aa11ff.svg)](https://github.com/noud/rtl8192EU_WiFi_linux_v5.2.19.1_25633.20171222_COEX20171113-0047/releases)
+[![master](https://img.shields.io/badge/current-v5.2.19.2-aa11ff.svg)](https://github.com/noud/rtl8192EU_WiFi_linux/releases)
 
 Working hardware dongle is [TP-Link TL-WN823N](https://www.tp-link.com/us/support/download/tl-wn823n/#Driver)
+Also supported:
+[TL-WN821N V6](https://www.tp-link.com/en/support/download/tl-wn821n/#Driver)
+[TL-WN822N V5](https://www.tp-link.com/en/support/download/tl-wn822n/#Driver)
+[TL-WN8200ND V2](https://www.tp-link.com/en/support/download/tl-wn8200nd/#Driver)
+
+How to build:
+
+```sh
+  $ sudo su
+  # make clean
+  # make
+  # modprobe lib80211
+  # modprobe cfg80211
+  # insmod 8192eu.ko
+  # cp 8192eu.ko /lib/modules/`uname -r`/kernel/drivers/net/wireless
+  # depmod -a
+```
+After install:
+
 ```sh
 # lsusb -s 1:3
 Bus 001 Device 006: ID 2357:0109
