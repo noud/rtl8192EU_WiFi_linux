@@ -31,12 +31,12 @@ Bus 001 Device 006: ID 2357:0109
 ```
 ```sh
 # modinfo 8192eu
-filename:       /lib/modules/4.15.0-48-generic/kernel/drivers/net/wireless/8192eu.ko
+filename:       /lib/modules/5.4.0-29-generic/kernel/drivers/net/wireless/8192eu.ko
 version:        v5.2.19.2_COEX20190601-0001
 author:         Realtek Semiconductor Corp.
 description:    Realtek Wireless Lan Driver
 license:        GPL
-srcversion:     AFB43A6F76D636B59CFBBC0
+srcversion:     8ABFAB5F68CBD0BEF8A0A16
 alias:          usb:v2357p0126d*dc*dsc*dp*ic*isc*ip*in*
 alias:          usb:v2357p0109d*dc*dsc*dp*ic*isc*ip*in*
 alias:          usb:v2357p0107d*dc*dsc*dp*ic*isc*ip*in*
@@ -46,6 +46,6 @@ alias:          usb:v0BDAp818Bd*dc*dsc*dp*icFFiscFFipFFin*
 depends:        cfg80211
 retpoline:      Y
 name:           8192eu
-vermagic:       4.15.0-48-generic SMP mod_unload
+vermagic:       5.4.0-29-generic SMP mod_unload
 ```
-* I have added support to v5.2.19.1 Realtek driver to build on latest [linux-4.15.y](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?h=linux-4.15.y)
+* I have added support to v5.2.19.1 Realtek driver to build on latest [linux-5.2.y](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?h=linux-5.2.y)
