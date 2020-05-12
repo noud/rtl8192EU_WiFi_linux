@@ -7,6 +7,8 @@
 
 - [D-Link](https://dlink.com.au)
     - [DWA-131](http://support.dlink.com.au/Download/download.aspx?product=DWA-131&type=Drivers)
+- [Mercusys](https://mercusys.com)
+    - [MW300UM](https://www.mercusys.com/en/download/mw300um#Software)
 - [TP-Link](https://tp-link.com)
     - [TL-WN821N](https://tp-link.com/en/support/download/tl-wn821n/#Driver)
     - [TL-WN822N](https://tp-link.com/en/support/download/tl-wn822n/#Driver)
