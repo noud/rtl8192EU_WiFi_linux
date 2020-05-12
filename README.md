@@ -1,4 +1,4 @@
-# Realtek 8192EU [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?h=linux-5.2.y) driver
+# [Realtek](https://www.realtek.com) [RTL8192EU](https://www.realtek.com/en/products/communications-network-ics/item/rtl8192eu) [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git/log/?h=linux-5.2.y) driver
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![master](https://img.shields.io/badge/current-v5.2.19.2-aa11ff.svg)](https://github.com/noud/rtl8192EU_WiFi_linux/releases)
