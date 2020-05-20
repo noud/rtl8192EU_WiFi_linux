@@ -1,10 +1,8 @@
-repo github.com/noud/rtl8192EU_WiFi_linux
-
 github.com/noud/rtl8192EU_WiFi_linux/network/members >>>> 5 forkers
 github.com/noud/rtl8192EU_WiFi_linux/issues/2 <<<< opmerkingen
 github.com/noud/rtl8192EU_WiFi_linux/pull/1 <<<< opmerking
 
-daardoor ging kon ik bij schrijven >>>> resultaat
+    daardoor ging kon ik bij schrijven >>>> resultaat
 
 D-Link DWA-131 >>>> github.com/noud/rtl8192EU_WiFi_linux/commit/737658530661cbff1bb3097488ae86cc047868af
 Mercusys MW300UM >>>> github.com/noud/rtl8192EU_WiFi_linux/commit/c3e5c2ec54b59657dbf987d8a0489dbf49161bb7
