@@ -1,0 +1,34 @@
+hi Defrusne,
+
+i maintain Realtek RTL8192EU Linux driver
+https://github.com/noud/rtl8192EU_WiFi_linux#supported
+
+You by Temacn do use RTL8192EU WiFi chip as well in your products.
+I do not have your USB vendorID and not your productIDs.
+So the driver does not work with your products.
+
+May i have your USB vendorID and those productIDs?
+So this driver works for your products too.
+My e-mail address is: noud4@home.nl
+My mobile no: +31 6 1987 3003
+
+I am then able to make a commit like this where i add Mercusys MW300UM WiFi USB dongle support
+https://github.com/noud/rtl8192EU_WiFi_linux/commit/c3e5c2ec54b59657dbf987d8a0489dbf49161bb7
+
+May i have 1 USB RTL8192EU product of yours sent?
+So i can test the driver works okay with your product as well.
+
+I did see i am able to order 1 demo product,
+but shipment is over $40 and that is a lot given
+i am just a private person and
+i bring a driver to your products and more exposure.
+
+my address is:
+Noud de Brouwer
+Voldijkje 13
+5053 AG GOIRLE
+Netherlands
+Europe
+
+thank you,
+Noud
