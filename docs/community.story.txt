@@ -1,0 +1,13 @@
+.... see this .... 
+
+raw.githubusercontent.com/noud/rtl8192EU_WiFi_linux/master/docs/community.story.txt :
+
+github.com/noud/rtl8192EU_WiFi_linux/network/members >>>> 5 forkers
+github.com/noud/rtl8192EU_WiFi_linux/issues/2 <<<< remarks
+github.com/noud/rtl8192EU_WiFi_linux/pull/1 <<<< remark
+
+    that made me code >>>> result
+
+D-Link DWA-131 >>>> github.com/noud/rtl8192EU_WiFi_linux/commit/737658530661cbff1bb3097488ae86cc047868af
+Mercusys MW300UM >>>> github.com/noud/rtl8192EU_WiFi_linux/commit/c3e5c2ec54b59657dbf987d8a0489dbf49161bb7
+linux > 4.19.66 >>>> github.com/noud/rtl8192EU_WiFi_linux/pull/1
